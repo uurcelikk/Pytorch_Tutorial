@@ -2,6 +2,7 @@
 Pytorch Notes in Machine Learning and Deep Learning
 
 This repository provides a Python-based example of working with DICOM files, which are commonly used in the medical imaging field. DICOM (Digital Imaging and Communications in Medicine) files store images and related information, such as patient data and imaging parameters. This example demonstrates how to read, manipulate, and analyze DICOM files using Python.
+
 Digital Imaging and Communications in Medicine (DICOM) is the standard for the communication and management of medical imaging information and related data. (https://www.dicomstandard.org/about)
 
 DICOM used for store and share medical images (or another data). And standardised file format allows the communication between medical devices. Most medical image data in hospitals are stored in this particular file format.
